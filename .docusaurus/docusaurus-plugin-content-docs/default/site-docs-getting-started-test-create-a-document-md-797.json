@@ -5,7 +5,7 @@
   "source": "@site/docs/getting-started/test-create-a-document.md",
   "sourceDirName": "getting-started",
   "slug": "/getting-started/test-create-a-document",
-  "permalink": "/docs/getting-started/test-create-a-document",
+  "permalink": "/en/docs/getting-started/test-create-a-document",
   "draft": false,
   "unlisted": false,
   "editUrl": "https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/docs/getting-started/test-create-a-document.md",
@@ -18,10 +18,10 @@
   "sidebar": "tutorialSidebar",
   "previous": {
     "title": "Create a Page",
-    "permalink": "/docs/getting-started/test-create-a-page"
+    "permalink": "/en/docs/getting-started/test-create-a-page"
   },
   "next": {
     "title": "Create a Blog Post",
-    "permalink": "/docs/getting-started/test-create-a-blog-post"
+    "permalink": "/en/docs/getting-started/test-create-a-blog-post"
   }
 }
